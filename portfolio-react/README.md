@@ -1,16 +1,47 @@
-# React + Vite
+# Krushna Jadhav — Developer & Cybersecurity Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to the source for my personal portfolio website. This repository hosts a lightweight, responsive front-end that showcases projects, skills, and contact information related to my work in web development and cybersecurity.
 
-Currently, two official plugins are available:
+**Live site:** A production version of this portfolio is intended to be served as a static site (GitHub Pages or any static host).
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+**What you'll find here**
+- A clean, mobile-first portfolio built with HTML, CSS and JavaScript.
+- Project highlights showcasing web design, security-focused projects, and automation tools.
+- Contact and scheduling integration for easy outreach.
 
-## React Compiler
+**Key projects (examples)**
+- SK Studio — Fine art photography portfolio (client site showcase)
+- MCP Web Scrape — TypeScript-based web content extraction framework
+- MCP Windows Server — Python automation server for Windows
+- EmailGuard — ML-based phishing detection prototype
+- Additional academic and hands-on cybersecurity projects
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+**Technologies**
+- HTML, CSS, JavaScript
+- Minimal third-party libs for analytics and widgets (Calendly, Google Analytics)
 
-## Expanding the ESLint configuration
+Getting started (local preview)
+1. Clone the repository:
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+	git clone https://github.com/krushna081/krushna-jadhav.git
+
+2. Serve the site locally. From the project root you can use a simple static server, for example:
+
+	- VS Code: Install and run the "Live Server" extension.
+	- Python: `python -m http.server 8000` (then open `http://localhost:8000`).
+
+3. Open `index.html` in your browser to preview the site.
+
+Contributing
+- This repository contains the static site source. If you'd like to suggest improvements (content, accessibility, performance), please open an issue or a pull request in the GitHub repository.
+
+Contact
+- Schedule a time via Calendly (linked on the site) or connect on LinkedIn: https://www.linkedin.com/in/krushna975/
+
+License
+- Licensed under the MIT License. See the LICENSE file for details (if present).
+
+---
+
+If you want, I can: preview the site locally, add a `LICENSE`, or create a short CONTRIBUTING.md. Which would you like next?
+
