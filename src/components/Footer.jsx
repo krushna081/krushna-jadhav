@@ -112,13 +112,13 @@ function Footer() {
           </ul>
         </div>
         <div className="social-icons">
-          <a href="https://www.linkedin.com/in/krushna975/" target="_blank" rel="noopener noreferrer">
+          <a href="https://www.linkedin.com/in/krushna081/" target="_blank" rel="noopener noreferrer">
             <i className="fa-brands fa-linkedin-in"></i>
           </a>
-          <a href="https://github.com/mukul975" target="_blank" rel="noopener noreferrer">
+          <a href="https://github.com/krushna081" target="_blank" rel="noopener noreferrer">
             <i className="fa-brands fa-github"></i>
           </a>
-          <a href="https://www.instagram.com/_mukul.jadhav_/" target="_blank" rel="noopener noreferrer">
+          <a href="https://www.instagram.com/krushna081/" target="_blank" rel="noopener noreferrer">
             <i className="fa-brands fa-instagram"></i>
           </a>
         </div>
